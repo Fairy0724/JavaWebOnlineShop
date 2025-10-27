@@ -42,7 +42,7 @@
   
 ## 成品展示
 - 商城首页：
-![商城首页](https://github.com/Fairy0724/JavaWebOnlineShop/WebRoot/res/screenshot/OnlineShopMain.png)
+![商城首页](https://github.com/Fairy0724/JavaWebOnlineShop/blob/master/WebRoot/res/screenshot/OnlineShopMain.png)
 - 后台管理页面：
 ![商城首页](https://github.com/Fairy0724/JavaWebOnlineShop/WebRoot/res/screenshot/OnlineShopMain.png)
 
